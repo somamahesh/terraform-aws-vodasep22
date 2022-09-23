@@ -1,1 +1,1 @@
-# terraform-aws-vodasep22
+# vodasep22
